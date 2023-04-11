@@ -10,12 +10,18 @@ I am a novice web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :telescope: I continue to study web development
 
-📫 How to reach me **mysovskih704@gmail.com**
+📫 How to reach me: **mysovskih704@gmail.com**
 
 🌍 I speak Russian (native), English (B1)
 
 :zap: I want to learn a new profession and find a job
 
 ---
+
+### 🤝 Connect with me:
+
+<p align="left">
+<a href="https://t.me/mari_mys" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" height="40" width="40" alt="Marimys72"/></a>
+<a href="https://vk.com/mari_mys" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="Marimys72"/></a>
 
 
