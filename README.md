@@ -41,6 +41,10 @@ I am a novice web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="sass" alt="vscode" width="40" height="40"/>
 </div>
+
+---
+
+### 💻 Completed courses:
   
 
 
