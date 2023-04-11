@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Maria
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<h3 align="center">Junior web developer</h3>
 
-<!--
-**Marimys72/Marimys72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :woman_technologist: About me:
+I am a novice web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My training lasts about **1.5 years and continues every day.** I started my training with a simple book for beginners in programming about the basics of web development. Then I took various courses and intensive courses, where I studied the basics of **C++, Java, HTML, CSS, Javascript.** In the process of gaining practical skills, my interest in web development was determined. I like to observe the visual result of the development, adjust and do better. I have a creative approach, a sense of taste and style, I tend to perfectionism.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me **mysovskih704@gmail.com**
+
+🌍 I speak Russian (native), English (B1)
