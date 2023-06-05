@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Мария!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
-<h3 align="center">Junior web developer :woman_technologist:</h3>
+<h3 align="center">Джуниор веб-девелопер :woman_technologist:</h3>
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 &nbsp;Социальные сети :
+### 🤝 &nbsp;Социальные сети:
 
 <p align="left">
 <a href="https://t.me/mari_mys" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" height="40" width="40" alt="Marimys72"/></a>
@@ -27,7 +27,7 @@
   
 ---
   
-### 🛠 &nbsp;Технологии и инструменты :
+### 🛠 &nbsp;Технологии и инструменты:
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -45,7 +45,7 @@
 
 ---
 
-### 💻 &nbsp;Пройденные курсы :
+### 💻 &nbsp;Пройденные курсы:
 
 | Courses                                                                      | Date              |
 | -----------------------------------------------------------------------------| :---------------: |
@@ -56,7 +56,7 @@
 
 ---
 
-### :fire: &nbsp;GitHub статистика :
+### :fire: &nbsp;GitHub статистика:
 
 <table>
   <tr>
