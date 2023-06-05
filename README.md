@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 &nbsp;Connect with me:
+### 🤝 &nbsp;Социальные сети :
 
 <p align="left">
 <a href="https://t.me/mari_mys" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" height="40" width="40" alt="Marimys72"/></a>
@@ -27,7 +27,7 @@
   
 ---
   
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Технологии и инструменты :
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
@@ -45,21 +45,18 @@
 
 ---
 
-### 💻 &nbsp;Completed courses:
+### 💻 &nbsp;Пройденные курсы :
 
 | Courses                                                                      | Date              |
 | -----------------------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                                         | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                             | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                             | 02/2022 - 03/2022 |
 | stepik.org/Верстка и веб разработка сайтов 2022 - с нуля! Web development    | 12/2022 - 01/2023 |
 | itlogia.ru/Интенсив "Frontend Start"                                         | 01/2023 - 01/2023 |
 | stepik.org/Верстка и веб-разработка сайтов. Продвинутый уровень Web Develop  | 02/2023 - 03/2023 |
-| stepik.org/Полный курс по JavaScript - С нуля до результата!                 | 04/2023 - 05/2023 |
+| stepik.org/Полный курс по JavaScript - С нуля до результата!                 | 04/2023 - по н.в. |
 
 ---
 
-### :fire: &nbsp;My Stats :
+### :fire: &nbsp;GitHub статистика :
 
 <table>
   <tr>
